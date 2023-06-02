@@ -69,7 +69,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "axum-dummy"
+name = "axum-playground"
 version = "0.1.0"
 dependencies = [
  "axum",

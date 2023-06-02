@@ -1,2 +1,2 @@
-# axum-dummy
+# axum-playground
 Playground for axum servers
